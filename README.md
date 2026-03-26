@@ -1,6 +1,7 @@
 🧮 Simple Calculator in C++
 
 📌 Descrição
+
 Este projeto é uma calculadora simples desenvolvida em C++ que permite ao usuário realizar operações matemáticas básicas diretamente pelo terminal.
 
 O programa suporta:
