@@ -10,7 +10,7 @@ int main() {
 
     char again = 's';
 
-    cout<<"Simple Calculator\n";
+    cout<<"Calculadora simples\n";
 
     while (again == 's' || again == 'S') {
 
@@ -46,7 +46,7 @@ int main() {
 
                 if (b == 0) {
 
-                    cout << "Erro: Divisão por zero!\n";
+                    cout << "Erro: Dividido por zero!\n";
 
                     valid = false;
 
@@ -72,7 +72,7 @@ int main() {
 
         }
 
-        cout << "Fazer outra operação? (s/n): ";
+        cout << "Fazer outra conta? (s/n): ";
 
         cin >> again;
     
